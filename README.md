@@ -1,6 +1,5 @@
 # M8-Deep-dive-backend
 
-
 ***In Deze periode module 8 moeten we een webshop maken in wordpress  dat krystallen en therapie sessies verkoopt***
 
 **Team**
