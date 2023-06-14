@@ -13,7 +13,7 @@
 ## [link naar site](https://32840.hosts1.ma-cloud.nl/)
 ## [link naar Trello Bord](https://trello.com/b/FgsJpOUg/m8-deep-dive-backend)
 
-![image](https://github.com/Uday-Singh1/M8-Deep-dive-backend/assets/91188742/de6ca7aa-2c43-4342-9b43-dc7b95e0596c)[1]
+<i class="fa-brands fa-github">[1]</i>
 
 
 
