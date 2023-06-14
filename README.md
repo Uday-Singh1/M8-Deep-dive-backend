@@ -14,8 +14,8 @@
 ## [link naar Trello Bord](https://trello.com/b/FgsJpOUg/m8-deep-dive-backend)
 
 <p align="center">
-  <a href="https://skillicons.dev">
-<i class="fa-brands fa-github">https://github.com/Uday-Singh1/M8-Deep-dive-backend</i>
+  <a href="https://github.com/Uday-Singh1/M8-Deep-dive-backend">
+<i class="fa-brands fa-github"></i>
   </a>
 </p>
 
