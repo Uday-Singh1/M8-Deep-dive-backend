@@ -12,31 +12,4 @@
 
 ## [link naar site](https://32840.hosts1.ma-cloud.nl/)
 ## [link naar Trello Bord](https://trello.com/b/FgsJpOUg/m8-deep-dive-backend)
-
-<p align="center">
-  <a href="https://github.com/Uday-Singh1/M8-Deep-dive-backend">
-<i class="fa-brands fa-github"></i>
-  </a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[1]: https://github.com/Uday-Singh1/M8-Deep-dive-backend
-[2]: https://32840.hosts1.ma-cloud.nl/
-[3]: https://trello.com/b/FgsJpOUg/m8-deep-dive-backend
+## [link naar Github](https://github.com/Uday-Singh1/M8-Deep-dive-backend) 
