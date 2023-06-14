@@ -12,3 +12,5 @@
 ## [link naar site](https://32840.hosts1.ma-cloud.nl/)
 ## [link naar Trello Bord](https://trello.com/b/FgsJpOUg/m8-deep-dive-backend)
 ## [link naar Github](https://github.com/Uday-Singh1/M8-Deep-dive-backend) 
+
+**Overige documentatie staat in onze groep chat bestanden in Teams**
